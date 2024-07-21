@@ -1,1 +1,0 @@
-# Emergency-Sound-Recognition-System-
