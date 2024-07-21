@@ -1,3 +1,6 @@
+# Assessing the effectiveness of an emergency sound recognition system utilizing frequency centric signal processing
+
+
 1) The zip folder contains all the deliverables required for the Final Project.
 
 2) Download the Jupyter Notebook file (.ipynb) and upload it to Jupyter notebook. Alternatively you can also copy paste this code to any other environment where python code can be executed.
